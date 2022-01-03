@@ -1,1 +1,5 @@
-not committed or staged yet
+not committed or staged yet.
+.
+.
+.
+committed and pushed to the repository
